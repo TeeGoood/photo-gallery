@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/photo-gallery/static/css/main.1290c5f1.css",
+    "main.js": "/photo-gallery/static/js/main.c833c67d.js",
+    "static/media/gigachad.jpg": "/photo-gallery/static/media/gigachad.430158a2fc4cdd906a48.jpg",
+    "index.html": "/photo-gallery/index.html",
+    "main.1290c5f1.css.map": "/photo-gallery/static/css/main.1290c5f1.css.map",
+    "main.c833c67d.js.map": "/photo-gallery/static/js/main.c833c67d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1290c5f1.css",
+    "static/js/main.c833c67d.js"
+  ]
+}
